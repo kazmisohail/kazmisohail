@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there👋, I'm Sohail.
+### A passionate developer from Pakistan.
+
+- 🌱 I’m currently learning **Python, Linux and Next.js.**
+- 📫 How to reach me : My LinkedIn is always there for any queries or simply for Hello World!.
+- ⚡ Fun fact: I always like to have a fun☺️.
 
 <!--
 **kazmisohail/kazmisohail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
