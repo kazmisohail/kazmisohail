@@ -5,7 +5,7 @@
 - 📫 How to reach me : My LinkedIn is always there for any queries or simply for Hello World!.
 - ⚡ Fun fact: I always like to have a fun☺️.
 
-<h1 align="center">Languages and Tools</h1>
+<h2 align="center">Languages and Tools</h2>
 
 - Web Development : html, css, bootstrap, nextjs, mssql
 - Languages : c++, java, javascript, typescript, python
