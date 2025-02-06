@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Sohail.</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Data Science and ML algorithms.**
+- 🌱 I’m currently exploring **Data Science modules.**
 - 📫 How to reach me : My LinkedIn is always there for any queries or simply for Hello World!.
 - ⚡ Fun fact: I always like to have a fun☺️.
 
