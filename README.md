@@ -9,7 +9,7 @@
 
 - Web Development : html, css, bootstrap, mssql
 - Languages : Python, ABAP, JavaScript, Java, C++
-- Others : Data Annotation, Computer Vision, Exploratory Data Analysis, Data Visualization, SQL, SAP ERP
+- Others : Data Annotation, Computer Vision, Machine Learning, Exploratory Data Analysis, Data Visualization, SQL, SAP ERP
 - Tools : RoboFlow, CVAT, Google Colab, Jupyter Notebook, VS code
 
 <!--
