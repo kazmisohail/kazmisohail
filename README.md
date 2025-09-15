@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Sohail.</h1>
-<h3 align="center">AI developer and Educator from Pakistan</h3>
+<h3 align="center">AI Developer and Educator from Pakistan</h3>
 
 - 🌱 I’m currently exploring **Deep Learning modules.**
 - 📫 How to reach me : My LinkedIn is always there for any queries or simply for Hello World!.
