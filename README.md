@@ -1,13 +1,13 @@
 <h1 align="center">Hi there👋, I'm Sohail.</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
+<h3 align="center">AI developer and Educator from Pakistan</h3>
 
-- 🌱 I’m currently exploring **Data Science modules.**
+- 🌱 I’m currently exploring **Deep Learning modules.**
 - 📫 How to reach me : My LinkedIn is always there for any queries or simply for Hello World!.
 - ⚡ Fun fact: I always like to have a fun☺️.
 
 <h2 align="center">Languages and Tools</h2>
 
-- Web Development : html, css, bootstrap, mssql
+- Web/Mobile Development : html, css, bootstrap, mssql, dart, flutter, firebase
 - Languages : Python, ABAP, JavaScript, Java, C++
 - Others : Data Annotation, Computer Vision, Machine Learning, Exploratory Data Analysis, Data Visualization, SQL, SAP ERP
 - Tools : RoboFlow, CVAT, Google Colab, Jupyter Notebook, VS code
