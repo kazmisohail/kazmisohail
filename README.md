@@ -8,9 +8,9 @@
 <h2 align="center">Languages and Tools</h2>
 
 - Web/Mobile Development : html, css, bootstrap, mssql, dart, flutter, firebase
-- Languages : Python, ABAP, JavaScript, Java, C++
+- Languages : Python, Dart, ABAP, JavaScript, Java, C++
 - Others : Data Annotation, Computer Vision, Machine Learning, Exploratory Data Analysis, Data Visualization, SQL, SAP ERP
-- Tools : RoboFlow, CVAT, Google Colab, Jupyter Notebook, VS code
+- Tools : RoboFlow, CVAT, Google Colab, Jupyter Notebook, VS code, Android Studio
 
 <!--
 **kazmisohail/kazmisohail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
