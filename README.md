@@ -7,7 +7,7 @@
 
 <h2 align="center">Languages and Tools</h2>
 
-- Web/Mobile Development : html, css, bootstrap, mssql, dart, flutter, firebase
+- Web/Mobile Development : html, css, bootstrap, mssql, dart, flutter, firebase, laravel, mysql
 - Languages : Python, Dart, ABAP, JavaScript, Java, C++
 - Others : Data Annotation, Computer Vision, Machine Learning, Exploratory Data Analysis, Data Visualization, SQL, SAP ERP
 - Tools : RoboFlow, CVAT, Google Colab, Jupyter Notebook, VS code, Android Studio
